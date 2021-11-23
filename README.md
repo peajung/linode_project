@@ -9,3 +9,6 @@ I am watching
 
 ### Feature 2
 This sentense is editing in Feature2
+
+### For feature branch
+This is an added message from feature branch
