@@ -9,3 +9,5 @@ I am watching youtube tutorial on Github
 
 ### For feature branch
 This is an added message from feature branch
+
+This sentense typed in github
